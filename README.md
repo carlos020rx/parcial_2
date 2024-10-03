@@ -1,8 +1,1 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Este proyecto es un portafolio personal desarrollado en React. La estructura de la página se organizó en diferentes componentes, lo que facilita la gestión de secciones como el banner, las habilidades, los proyectos y el contador de clics. Se implementó un archivo CSS personalizado para dar estilo a la web, asegurando una apariencia coherente y funcional. El objetivo del portafolio es presentar mis habilidades, proyectos anteriores y ofrecer una interfaz interactiva que mejora la experiencia del usuario, con detalles visuales como efectos hover en botones y una disposición adaptable.
